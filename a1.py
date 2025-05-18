@@ -12,3 +12,4 @@ def frequency(s):
 
 inp = input("Enter String: ")
 print(frequency(inp))
+
